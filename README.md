@@ -80,11 +80,3 @@ submission = {
 submission_json = json.dumps(submission, indent=4)
 print(submission_json)
 
-# Save to JSON file
-with open("submission.json", "w") as file:
-    json.dump(submission, file, indent=4)
-
-print("submission.json file created successfully.")
-```
-
-This will create a `submission.json` file with the required results.
