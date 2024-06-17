@@ -54,10 +54,10 @@ Here are the results from the analysis:
 
 ```python
 {
-    "1.1": -0.0857,  # Skewness of Sweetness
-    "1.2": -0.0041,  # Skewness of Crunchiness
-    "1.3": 0.2544,   # Pearson correlation between Ripeness and Acidity
-    "1.4": 0.0311,   # Pearson correlation between Quality and Weight
+    "1.1": 0.1738,  # Skewness of Sweetness
+    "1.2": 0.0607,  # Skewness of Crunchiness
+    "1.3": -0.2071,   # Pearson correlation between Ripeness and Acidity
+    "1.4": 0.0132,   # Pearson correlation between Quality and Weight
     "1.5": [218, 202]  # Number of bad and good quality apples
 }
 ```
